@@ -1,2 +1,3 @@
-# abz-agency-test-task
-Test task for abz.agency.
+# Test task for abz.agency.
+
+by Roman Snitsarenko (OrdDreamer)
